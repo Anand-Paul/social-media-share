@@ -8,7 +8,7 @@
 
 ## Features
 
-Included all type of sharing of own site to the social media
+Included all type of sharing of own site to the social media<br /><br />
 1.Facebook<br />
 2.LinkedIn<br />
 3.WhatsApp<br />
