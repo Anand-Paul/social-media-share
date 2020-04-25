@@ -1,27 +1,26 @@
-
-<div align="center"><strong>Social Media Share</strong></div>
+<div align="center"><img src="https://img.icons8.com/color/48/000000/share.png"/><strong style="font-size:18px;">Social Media Share</strong></div>
 <div align="center">A simple social share library for sharing the website information</div>
 <br />
 <div align="center">
   <sub>Created by Anand Paul and maintained with ❤️ by an amazing team of developers</sub>
 </div>
 
-## Features
+## Features 📢
 
 Included all type of sharing of own site to the social media<br /><br />
-1. Facebook<br />
-2. LinkedIn<br />
-3. WhatsApp<br />
-4. Email<br />
-5. Instagram<br />
-6. Twitter<br />
-7. Copy Link
+1. <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/> Facebook<br />
+2. <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> LinkedIn<br />
+3. <img src="https://img.icons8.com/color/48/000000/whatsapp.png"/> WhatsApp<br />
+4. <img src="https://img.icons8.com/color/48/000000/send.png"/> Email<br />
+5. <img src="https://img.icons8.com/color/48/000000/instagram-new.png"/> Instagram<br />
+6. <img src="https://img.icons8.com/color/48/000000/twitter.png"/> Twitter<br />
+7. <img src="https://img.icons8.com/color/48/000000/link.png"/> Copy Link
 
-## Architecture 
+## Architecture 🔧
 
 Architecture is purley based on conventional styles. And used the webpack for bundling the JS, CSS.
 
-## Initialization of the project for Developers
+## Initialization of the project for Developers 📖
 
 Currently Node version used is 14.0.0
 
@@ -30,9 +29,11 @@ npm run watch : To watch the entire source files during the development<br />
 npm run dev : Development Build<br />
 npm run prod : Production Build
 
-## Contributing ✨
+## Contributing
 If you've ever wanted to contribute to open source, and a great cause, now is your chance!
 
+## Contributors ✨
+Thanks goes to these wonderful people
 <table>
     <tr>
         <td align="center">
