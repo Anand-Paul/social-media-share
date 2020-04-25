@@ -37,11 +37,11 @@ If you've ever wanted to contribute to open source, and a great cause, now is yo
     <tr>
         <td align="center">
             <img src="https://avatars3.githubusercontent.com/u/20293629?v=3" width="100px;" alt=""/><br />
-            <sub><b>Kent C. Dodds</b></sub>
+            <sub><b>Anand Paul</b></sub>
         </td>
         <td align="center">
             <img src="https://avatars2.githubusercontent.com/u/42103978?v=3" width="100px;" alt=""/><br />
-            <sub><b>Kent C. Dodds</b></sub>
+            <sub><b>Anil AJ</b></sub>
         </td>
     </tr>
 </table>
