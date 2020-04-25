@@ -29,3 +29,19 @@ npm i : Install npm packages required for the project<br />
 npm run watch : To watch the entire source files during the development<br />
 npm run dev : Development Build<br />
 npm run prod : Production Build
+
+## Contributing ✨
+If you've ever wanted to contribute to open source, and a great cause, now is your chance!
+
+<table>
+    <tr>
+        <td align="center">
+            <img src="https://avatars3.githubusercontent.com/u/20293629?v=3" width="100px;" alt=""/><br />
+            <sub><b>Kent C. Dodds</b></sub>
+        </td>
+        <td align="center">
+            <img src="https://avatars2.githubusercontent.com/u/42103978?v=3" width="100px;" alt=""/><br />
+            <sub><b>Kent C. Dodds</b></sub>
+        </td>
+    </tr>
+</table>
