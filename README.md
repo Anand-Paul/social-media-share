@@ -9,19 +9,18 @@
 ## Features
 
 Included all type of sharing of own site to the social media<br /><br />
-1.Facebook<br />
-2.LinkedIn<br />
-3.WhatsApp<br />
-4.Email<br />
-5.Instagram<br />
-6.Twitter<br />
-7.Copy Link
+1. Facebook<br />
+2. LinkedIn<br />
+3. WhatsApp<br />
+4. Email<br />
+5. Instagram<br />
+6. Twitter<br />
+7. Copy Link
 
 ## Architecture 
 
 Architecture is purley based on conventional styles. And used the webpack for bundling the JS, CSS.
 
-ß
 ## Initialization of the project for Developers
 
 Currently Node version used is 14.0.0
