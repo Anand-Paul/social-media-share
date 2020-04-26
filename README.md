@@ -1,13 +1,13 @@
 
 # Social Media Share
-## A simple social share library for sharing the website information
-### Created by Anand Paul and maintained with ❤️ by an amazing team of developers<
+### A simple social share library for sharing the website information
+Created by Anand Paul and maintained with ❤️ by an amazing team of developers
 
 ## Features 📢
 
 Included all type of sharing of own site to the social media<br /><br />
 
-<img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>|<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>|<img src="https://img.icons8.com/color/48/000000/whatsapp.png"/>|<img src="https://img.icons8.com/color/48/000000/send.png"/>|<img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>|<img src="https://img.icons8.com/color/48/000000/twitter.png"/>|<img src="https://img.icons8.com/color/48/000000/link.png"/>
+<img src="https://img.icons8.com/color/48/000000/facebook-new.png"/><img src="https://img.icons8.com/color/48/000000/linkedin.png"/><img src="https://img.icons8.com/color/48/000000/whatsapp.png"/><img src="https://img.icons8.com/color/48/000000/send.png"/><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/><img src="https://img.icons8.com/color/48/000000/twitter.png"/><img src="https://img.icons8.com/color/48/000000/link.png"/>
 
 ## Architecture 🔧
 
