@@ -8,8 +8,12 @@
         share.onclick = (event) => {
             event.preventDefault();
             event.stopPropagation();
-            let strWindowFeatures = 'height=450, width=550, top=' + (window.innerHeight / 2 - 275) + ', left=' + (window.innerWidth / 2 - 225) + ', toolbar=0, location=0, menubar=0, directories=0, scrollbars=0';
-            window.open(shareLink(provider, postUrl, postTitle), "_blank", strWindowFeatures);
+            if (provider == 'copy-url') {
+                copyURL(share);
+            } else {
+                let strWindowFeatures = 'height=450, width=550, top=' + (window.innerHeight / 2 - 275) + ', left=' + (window.innerWidth / 2 - 225) + ', toolbar=0, location=0, menubar=0, directories=0, scrollbars=0';
+                window.open(shareLink(provider, postUrl, postTitle), "_blank", strWindowFeatures);
+            }
         }
     });
 
@@ -35,5 +39,23 @@
             case 'telegram': return "https://telegram.me/share/url?url=" + postUrl + "&text=" + postTitle;
             default: return 'undefined provider';
         }
+    }
+
+    function copyURL(share) {
+        let elm = document.createElement('textarea');
+        elm.style.fontSize = '12pt';
+        elm.style.border = '0';
+        elm.style.padding = '0';
+        elm.style.margin = '0';
+        elm.style.position = 'absolute';
+        elm.style['left'] = '-9999px';
+        let yPosition = window.pageYOffset || document.documentElement.scrollTop;
+        elm.style.top = `${yPosition}px`;
+        elm.setAttribute('readonly', '');
+        elm.value = window.location.href;
+        share.appendChild(elm);
+        elm.select();
+        document.execCommand('copy');
+        elm.remove();
     }
 })()
